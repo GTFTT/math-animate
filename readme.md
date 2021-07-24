@@ -1,3 +1,5 @@
+
+
 # Description
 This project is created just for fun
 But there is one important thing that makes me to upload it, I figured out how to use cos and sin.
@@ -13,3 +15,6 @@ This is not just a plain animation, this is MATH behind everything!
   </video>
 </figure>
 <!-- blank line -->
+
+# The same video but uploaded:
+https://user-images.githubusercontent.com/48696470/126881455-6cd6f7da-3257-4e47-b4e7-d01e48f283b4.mp4
